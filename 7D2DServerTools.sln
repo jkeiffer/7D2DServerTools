@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7D2DServerTools", "7D2DServerTools\7D2DServerTools.csproj", "{E11314AB-084D-45E7-BB53-57C5DBAC081F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E11314AB-084D-45E7-BB53-57C5DBAC081F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11314AB-084D-45E7-BB53-57C5DBAC081F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11314AB-084D-45E7-BB53-57C5DBAC081F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11314AB-084D-45E7-BB53-57C5DBAC081F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5749FF60-C3E3-4591-81B3-74A94EC842D8}
+	EndGlobalSection
+EndGlobal
